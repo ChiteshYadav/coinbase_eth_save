@@ -1,0 +1,8 @@
+.vercel
+
+# Ignore CodeIgniter logs and cache
+env/
+.env
+application/logs/*
+application/cache/*
+node_modules/
